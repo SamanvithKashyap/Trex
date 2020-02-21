@@ -1,3 +1,3 @@
 # Trex
 
-## This game is created using JAva script by Samanvith Kashyap
+## This game is created using Java script by Samanvith Kashyap
