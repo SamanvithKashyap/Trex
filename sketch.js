@@ -80,7 +80,7 @@ function draw() {
     ground.velocityX = -(6 + 3*score/100);
   
     if(keyDown("space") && trex.y >= 159) {
-      trex.velocityY = -15;
+      trex.velocityY = -17;
     }
     
   
